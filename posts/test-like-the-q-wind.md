@@ -12,7 +12,29 @@ tags:
 ---
 # Qwind.css
 
+Hi there! I'm making my first ever "dutch design system" called Q-wind. 
+
+It uses only **ONE** CSS variable; `var(--q)`
+
+It only has one purpose; **testing in preproduction**
+
+My writing-style is very direct, so here we go; 
+
 # Revolver-DS
+
+I created my own design system methodology for CSS that I have dubbed "Revolver-DS". Just Lock, Load & Ship your designs into your DS. 
+
+Naming is a bit of a habit I am so good at (cough), that I created a workshop on "naming things" for design systems. Naming things in CS is also one of the *two hardest things to do*.
+
+Revolver-DS has a simple premise;
+
+Simply lock in all your design tokens, Load in your layers & utilities, and Ship away your custom classes. 
+
+
+
+
+
+I use this for layering my design system modules so developers can import what they need, when they need it. This creates a much better des-dev workflow since you don't have to fight the cascade, I did that already.
 
 # Lock.css
 
@@ -59,7 +81,7 @@ See most people probably don't get the origin of `code;` it's a language, not a 
 Testing is production too, it's very easy and therefor also very hard to forget, and it doesn't just happen in the front-end. 
 
 Testing sounds much like insurance, but what it mostly will be used for is checking up on standards that need to be met. But that checklist is always left to the end.
- 
+
 And if you do only test at the end, you did it too late imo and most likely you are not a designer. You need to ask why they don't test their designs!
 
 An illusion of mind, created by framing & naming testing environments. Like if you don't do it in an "environment", all hell brakes lose
@@ -135,8 +157,6 @@ I talk in a more kinetical way of how things move inside the system, and how we 
 The analogy of a river has always resonated with programmers, trees too. Natural language is key then.
 
 CSS uses @layers now that will make you feel right at home coming from any graphical application, except this is how a developer layers their artwork; using a CS language because it needs to be automated. 
-
-
 
 ### Language as a system
 
