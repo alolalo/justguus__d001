@@ -5,7 +5,7 @@ author: Guus "mr Bot" Hoeve
 summary: A single responsibility test-utility, using only ONE css variable; var(--q);
 metaDescription: Q-wind
 tags:
-  - post
+  - CSS
 ---
 # Qwind.css
 
