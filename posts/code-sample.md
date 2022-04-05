@@ -1,9 +1,9 @@
 ---
 title: This post is a Test
 date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
+author: Guus Hoeve
 summary: Add code samples to your markdown files
-metaDescription: Add code samples to your markdown files
+metaDescription: Add code samples to your markdown files and update the
 tags:
   - tech
   - environment
