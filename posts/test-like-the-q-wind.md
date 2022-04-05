@@ -6,6 +6,8 @@ summary: A single responsibility test-utility, using only ONE css variable; var(
 metaDescription: Q-wind
 tags:
   - CSS
+  - DS
+  - DX
 ---
 # Qwind.css
 
