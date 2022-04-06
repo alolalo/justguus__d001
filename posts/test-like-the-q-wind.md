@@ -1,5 +1,5 @@
 ---
-title: Test like the Q-wind!
+title: ".: DX :. Test like the Q-wind!"
 date: 2022-04-08T10:33:53.481Z
 author: Guus "mr Bot" Hoeve
 summary: A single responsibility test-utility, using only ONE css variable; var(--q);
