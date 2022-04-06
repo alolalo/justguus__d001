@@ -65,7 +65,9 @@ It's always far less expensive to test and prevent things upfront, ask your loca
 
 So that goes too in code, where designers now face a layer of code they normally don't WANT to see. But as you can see they can easily layer their work around their developers work.
 
-It's a missed opportunity if we want to see designers code, because what you ask of them is to code like you. Ask HOW would designers code, and you will see they have a different approach from the surface.
+It's a missed opportunity if we want to see designers code, because what you ask of them is to code like you. 
+
+Ask HOW would designers code, and you will see they have a different approach from the surface. Show them the narrative of your code, and they will see the bigger picture. An IDE doesn't do that, at best it can read it out loud for you and still make no sense.
 
 ##### Press SPACE, designers
 
